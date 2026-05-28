@@ -1914,9 +1914,11 @@ categories:
 
         - name: MyIPNow
           url: https://myipnow.net
-          github: bodiana/myipnow-main
+          github: bodiana/myipnow
           icon: https://myipnow.net/favicon.ico
           openSource: true
+          androidApp: net.myipnow.app
+          iosApp: https://apps.apple.com/us/app/myipnow-ip-network-tools/id6763992136
           description: |
             Free online toolkit for IP lookup with geolocation, DNS lookup, WHOIS, IP blacklist check, ASN lookup, subnet calculator, ping test and speed test. No account required.
           
